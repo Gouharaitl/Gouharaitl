@@ -1,5 +1,3 @@
-# GouharlLali
-
 # Hi there, I'm [Gouhar Lali](https://portfoliogouhar.herokuapp.com/) 👋
 
 I'm a Android Developer passionate about crafting delightful mobile apps. Here's a glimpse of what I'm up to:
