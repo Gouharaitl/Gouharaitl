@@ -24,7 +24,7 @@ As a Software Developer, I specialize in:
 - **Gradle**: Skilled in configuring and managing Gradle build scripts to streamline the development process.
 - **SourceTree**: Experienced in utilizing SourceTree for Git repository management and visualizing changes.
 - **GitHub**: Proficient in utilizing GitHub for version control and collaboration on open-source projects.
-- **Communication & Collaboration:** Microsoft Teams, Slack, Agile/Scrum Methodologies and Kanban.
+- **Communication & Collaboration:** Microsoft Teams, Slack, Agile/Scrum Methodologies.
 
 ### Learning Journey
 
